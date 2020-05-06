@@ -1,0 +1,12 @@
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\bin\Debug\Chuong4_part1_vidu.exe.config
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\bin\Debug\Chuong4_part1_vidu.exe
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\bin\Debug\Chuong4_part1_vidu.pdb
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.csprojAssemblyReference.cache
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.FrmChaoMung.resources
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.Properties.Resources.resources
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.csproj.GenerateResource.cache
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.csproj.CoreCompileInputs.cache
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.exe
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.pdb
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.FrmTinhTong.resources
+D:\app\duccu\trang_cslt2\Chuong4_part1_vidu\obj\Debug\Chuong4_part1_vidu.FrmTinhTongDay.resources
